@@ -1,0 +1,64 @@
+{
+	"folders": [
+		{
+			"path": "01-react-basics"
+		},
+		{
+			"path": "02-react-styling"
+		},
+		{
+			"path": "03-react-debugging"
+		},
+		{
+			"path": "04-react-basics-practice"
+		},
+		{
+			"path": "05-react-use-effect"
+		},
+		{
+			"path": "06-react-use-reducer"
+		},
+		{
+			"path": "07-react-get-request"
+		},
+		{
+			"path": "08-react-post-request"
+		},
+		{
+			"path": "09-react-custom-hook"
+		},
+		{
+			"path": "10-react-custom-hook-example"
+		},
+		{
+			"path": "11-react-forms"
+		},
+		{
+			"path": "12-redux-basics"
+		},
+		{
+			"path": "13-redux-advanced"
+		},
+		{
+			"path": "14-react-router"
+		},
+		{
+			"path": "15-react-router-practice"
+		},
+		{
+			"path": "16-react-authentication"
+		},
+		{
+			"path": "17-next-js-basics"
+		},
+		{
+			"path": "18-next-js-advanced"
+		},
+		{
+			"path": "19-react-tests"
+		},
+		{
+			"path": "20-react-typescript"
+		}
+	]
+}
